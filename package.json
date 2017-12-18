@@ -1,0 +1,15 @@
+{
+  "name": "static-literals-loader",
+  "version": "1.0.0",
+  "description": "static literals loader module for webpack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/germanrio/static-literals-loader.git"
+  },
+  "author": {
+  "name": "German RIO",
+  "email": "german@germanrio.es",
+  "url": "http://www.germanrio.es"
+  },
+  "license": "MIT"
+}
